@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 ### In all seriousness, I've always wanted to learn to code but I shide away because, oh well, life happened and also I thoguht I had to be some kind of genius to learn it. 
 
 ### A decade ago, there was a certain glass ceiling to the industry but not anymore. I live by the motto, age is just a number, do what you always wanted to do because it's never too late!
+
+### 🌱 I’m currently learning JS and React
+
 <br>
 
 ## Languages and Tools:
-
 
 <img align="left" alt="HTML5" width="32px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img align="left" alt="CSS3" width="32px" src="https://img.icons8.com/color/48/000000/css3.png"/>
