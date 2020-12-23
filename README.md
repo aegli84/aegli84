@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 
 [LinkedIn]:https://www.linkedin.com/in/andreeaegli/
 <br>
-![](https://komarev.com/ghpvc/?username=aegli84)
+<!--![](https://komarev.com/ghpvc/?username=aegli84)-->
