@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ![Andreea's github stats](https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars)
 
-[![Andreea's  Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&title_color=b38f28)
+![Andreea's  Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&title_color=b38f28)
 
 ## 📫 How to reach me:
 
