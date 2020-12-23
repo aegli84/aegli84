@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### A decade ago, there was a certain glass ceiling to the industry but not anymore. I live by the motto, age is just a number, do what you always wanted to do because it's never too late!
 
-### 🌱 I’m currently learning JS and React
+#### 🌱 I’m currently learning JS and React
 
 ## Languages and Tools:
 
