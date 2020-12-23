@@ -47,3 +47,5 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [LinkedIn]:https://www.linkedin.com/in/andreeaegli/
+<br>
+![](https://komarev.com/ghpvc/?username=aegli84)
