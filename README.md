@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <br />
 
 ![Andreea's github stats](https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact)](https://github.com/aegli84/github-readme-stats)
 
 <!--![Andreea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&title_color=b38f28)-->
