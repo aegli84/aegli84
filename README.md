@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 #### 🌱 I’m currently learning JS and React
 
+##### Keep doing the ABC thingy (Always Be Coding) 🌱
+
 ## Languages and Tools:
 
 <img align="left" alt="HTML5" width="32px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
