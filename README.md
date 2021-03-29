@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## 📫 How to reach me:
 
 
-[<img align="left" width="52px" src="<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>" />][linkedin]
+<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 
 [LinkedIn]:https://www.linkedin.com/in/andreeaegli/
 <br>
