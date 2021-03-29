@@ -40,9 +40,15 @@ Here are some ideas to get you started:
 <br><br>
 <br />
 
-![Andreea's github stats](https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars)
+<a href="https://github.com/aegli84">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Andreea's github stats" />
+</a>
+<a href="https://github.com/aegli84">
+  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact" alt="Top languages" />
+</a>
+<!--![Andreea's github stats](https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars)-->
 <br /><br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact)](https://github.com/aegli84/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact)](https://github.com/aegli84/github-readme-stats)-->
 
 ## 📫 How to reach me: 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/andreeaegli/)
