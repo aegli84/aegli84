@@ -41,11 +41,13 @@ Here are some ideas to get you started:
 <br />
 
 <a href="https://github.com/aegli84">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Andreea's github stats" />
+  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Andreea's github stats" />
 </a>
 <a href="https://github.com/aegli84">
-  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact" alt="Top languages" />
+  <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact" alt="Top languages" />
 </a>
+<br /> <br /> <br /> 
+<br /> <br /> <br /> 
 <!--![Andreea's github stats](https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact)](https://github.com/aegli84/github-readme-stats)-->
