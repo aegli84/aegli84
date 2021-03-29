@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, my name is Andreea  👋       ## 📫 How to reach me: [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/andreeaegli/)
+# Hello, my name is Andreea  👋       
 
 
 ### Story of my life in a nutshell: late bloomer, the end 😁
