@@ -46,11 +46,6 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me: 
 
-<img width="52px" src="https://img.icons8.com/color/48/000000/linkedin.png"  /> 
-
-[LinkedIn](:https://www.linkedin.com/in/andreeaegli/)
-
-
-<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+[<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 [linkedin]: https://www.linkedin.com/in/andreeaegli/
