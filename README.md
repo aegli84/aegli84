@@ -44,8 +44,5 @@ Here are some ideas to get you started:
 <br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact)](https://github.com/aegli84/github-readme-stats)
 
-<!--![Andreea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&title_color=b38f28)-->
-<br />
-
-## 📫 How to reach me: <img width="52px" src="https://img.icons8.com/color/48/000000/linkedin.png"/> 
+### 📫 How to reach me: <img width="52px" src="https://img.icons8.com/color/48/000000/linkedin.png"/> 
 [LinkedIn]:https://www.linkedin.com/in/andreeaegli/
