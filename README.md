@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Story of my life in a nutshell: late bloomer, the end 😁
 
-### In all seriousness, I've always wanted to learn to code but I shied away because, oh well, life happened and also I thoguht I had to be some kind of genius to learn it. 
+### In all seriousness, I've always wanted to learn to code but I shied away because, oh well, life happenes and also I thought I had to be some kind of genius to learn it. 
 
 ### A decade ago, there was a certain glass ceiling to the industry but not anymore. I live by the motto, age is just a number, do what you always wanted to do because it's never too late!
 
