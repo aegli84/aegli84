@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hello, my name is Andreea  👋 
 
-## [Check out my portfolio!](https://andreaegli.tech/)                                                                               
+<!--## [Check out my portfolio!](https://andreaegli.tech/)-->                                                                              
 
 ### Story of my life in a nutshell: late bloomer, the end 😁
 
