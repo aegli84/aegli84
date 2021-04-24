@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, my name is Andreea  👋 [Check out my portfolio!](https://andreaegli.tech/)                                                                               
+# Hello, my name is Andreea  👋 
+
+## [Check out my portfolio!](https://andreaegli.tech/)                                                                               
 
 ### Story of my life in a nutshell: late bloomer, the end 😁
 
