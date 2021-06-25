@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!--#### 🌱 I’m currently learning JS and React-->
 
-##### 🌱 Keep doing the ABC thingy (Always Be Coding) 👩‍💻
+##### Keep doing the ABC thingy (Always Be Coding) 👩‍💻
 
 
 ## Languages and Tools:
