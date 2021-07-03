@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!--#### 🌱 I’m currently learning JS and React-->
 
-##### Always Be Coding 👩‍💻
+##### 👩‍💻 I’m currently learning NextJS & React Native
 
 
 ## Languages and Tools:
