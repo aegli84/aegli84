@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 <img align="left" alt="styled-components" width="32px" src="https://styled-components.com/logo.png"/>
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Nodejs" width="32px" src="https://img.icons8.com/color/54087/nodejs.png" />
+<img align="left" alt="Nodejs" width="32px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" alt="Nodejs" width="32px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 <br><br>
 <br />
 
