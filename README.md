@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!--#### 🌱 I’m currently learning JS and React-->
 
-##### 👩‍💻  As a side project, I'm learning React Native
+##### 👩‍💻  I'm also working on a couple of side projects for my portfolio as well as learning React Native
 
 
 ## Languages and Tools:
