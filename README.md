@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 # Hello, my name is Andreea  👋 
 
-### 🌱 I'm currently working on my Capstone Project ("Plantpedia") with my team 📢 [Blossom](https://github.com/MariaSventeriki) [Spirit](https://github.com/NicklausDim) 🌱
-
 <!--## [Check out my portfolio!](https://andreaegli.tech/)-->                                                                              
 
 <!--#### Story of my life in a nutshell: late bloomer, the end 😁-->
@@ -28,7 +26,7 @@ Here are some ideas to get you started:
 
 <!--#### 🌱 I’m currently learning JS and React-->
 
-##### 👩‍💻  I'm also working on a couple of side projects for my portfolio as well as learning React Native
+<!--##### 👩‍💻  I'm also working on a couple of side projects for my portfolio as well as learning React Native-->
 
 #### 💻 View my portfolio website 👉 [HERE](https://andreaegli.tech/)
 
