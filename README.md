@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <!--#### A decade ago, there was a certain glass ceiling to the industry but not anymore. I live by the motto, age is just a number, do what you always wanted to do because it's never too late!-->
 
-#### 🌱 I’m currently learning Wordpress and doing an internship where I'm building a business/marketing website and integrading a SaaS product 
+#### 🌱 I’m currently learning Wordpress and doing an internship where I'm building a business/marketing website with an integrated SaaS product for a FinTech startup in Berlin
 
 <!--##### 👩‍💻  I'm also working on a couple of side projects for my portfolio as well as learning React Native-->
 
-#### 💻 View my portfolio website 👉 [HERE](https://andreaegli.tech/)
+### 💻 View my portfolio website 👉 [HERE](https://andreaegli.tech/)
 
 ## Languages and Tools:
 
