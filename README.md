@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Nodejs" width="32px" src="https://img.icons8.com/color/54087/nodejs.png" />
 <img align="left" alt="mongodb" width="32px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" alt="figma" width="32px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<img align="left" alt="figma" width="32px" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
 <br><br>
 <br />
 
