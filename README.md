@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <!--##### 👩‍💻  I'm also working on a couple of side projects for my portfolio as well as learning React Native-->
 
 ### 💻 View my portfolio website 👉 [HERE](https://andreaegli.tech/)
+### 📝 View my tech blog 👉 [HERE](https://aegli.hashnode.dev/)
 
 ## Languages and Tools:
 
