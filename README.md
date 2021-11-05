@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, my name is Andreea  👋 
+# Hello, my name is Andreea  :wave:
 
 <!--## [Check out my portfolio!](https://andreaegli.tech/)-->                                                                              
 
@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 #### 🌱 I’m currently learning Wordpress and doing an internship where I'm building a business/marketing website with an integrated SaaS product for a FinTech startup in Berlin
 
-<!--##### 👩‍💻  I'm also working on a couple of side projects for my portfolio as well as learning React Native-->
+#### View my portfolio website 👉 [💻](https://andreaegli.tech/)
+#### Read my tech blog 👉 [📝](https://aegli.hashnode.dev/)
 
-### 💻 View my portfolio website 👉 [HERE](https://andreaegli.tech/)
-### 📝 Read my tech blog 👉 [HERE](https://aegli.hashnode.dev/)
+<!--##### 👩‍💻  I'm also working on a couple of side projects for my portfolio as well as learning React Native-->
 
 ## Languages and Tools:
 
