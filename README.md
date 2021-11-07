@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img display="flex" align="center" justify-content="center" width="700" src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20help%20build%20the%20web%2C%20one%20line%20of%20code%20at%20a%20time%20%F0%9F%9A%80&title=Hi%2C%20I%27m%20Andreea%20%F0%9F%91%8B" />
+<img display="flex" align="center" justify-content="center" width="500" src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20help%20build%20the%20web%2C%20one%20line%20of%20code%20at%20a%20time%20%F0%9F%9A%80&title=Hi%2C%20I%27m%20Andreea%20%F0%9F%91%8B" />
 
 #### 🌱 I’m currently learning Wordpress and doing an internship where I'm building a business/marketing website with an integrated SaaS product for a FinTech startup in Berlin
 
