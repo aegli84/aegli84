@@ -14,15 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, my name is Andreea  :wave:
 
-<!--## [Check out my portfolio!](https://andreaegli.tech/)-->                                                                              
-
-<!--#### Story of my life in a nutshell: late bloomer, the end 😁-->
-
-<!--#### In all seriousness, I've always wanted to learn to code but I shied away because, oh well, life happenes and also I thought I had to be some kind of genius to learn it. -->
-
-<!--#### A decade ago, there was a certain glass ceiling to the industry but not anymore. I live by the motto, age is just a number, do what you always wanted to do because it's never too late!-->
+<img display="flex" align="center" justify-content="center" width="900" src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20help%20build%20the%20web%2C%20one%20line%20of%20code%20at%20a%20time%20%F0%9F%9A%80&title=Hi%2C%20I%27m%20Andreea%20%F0%9F%91%8B" />
 
 #### 🌱 I’m currently learning Wordpress and doing an internship where I'm building a business/marketing website with an integrated SaaS product for a FinTech startup in Berlin
 
@@ -60,4 +53,5 @@ Here are some ideas to get you started:
 <br /> <br /> <br /> 
 
 ## 📫 How to reach me: 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/andreeaegli/)
+[![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/andreeaegli/)
+[![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/AndreeaEgli)
