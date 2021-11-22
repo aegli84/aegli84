@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" justify-content="center" width="500" src="https://user-images.githubusercontent.com/64198045/142875383-d3e2be6c-609a-4909-bdd3-201f9a3d14da.gif" />
+<img align="center" justify-content="center" width="400" src="https://user-images.githubusercontent.com/64198045/142875383-d3e2be6c-609a-4909-bdd3-201f9a3d14da.gif" />
 
-#### 🌱 I’m currently learning Wordpress and doing an internship where I'm building a business/marketing website with an integrated SaaS product for a FinTech startup in Berlin
+### 💻  I’m a Full-Stack Web Developer with a focus on Frontend 
+### 🌱 I started learning to code in September '20 
+### 💡   I share my learning progress and projects on Twitter to inspire others
+### 📝  I write tech articles on my blog
+### ⚡ Completed an internship at a FinTech startup in Berlin
+### 💰 Looking for my first job as a Junior Web Developer
 
-#### View my portfolio website 👉 [💻](https://andreaegli.tech/)
-#### Read my tech blog 👉 [📝](https://aegli.hashnode.dev/)
+<br>
+
+##  View my portfolio website 👉 [💻](https://andreaegli.tech/)
+##  Read my tech blog 👉 [📝](https://aegli.hashnode.dev/)
 
 <!--##### 👩‍💻  I'm also working on a couple of side projects for my portfolio as well as learning React Native-->
 
