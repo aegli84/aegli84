@@ -60,5 +60,6 @@ Here are some ideas to get you started:
 <br /> <br /> <br /> 
 
 ## 📫 How to reach me: 
+
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/andreeaegli/)
 [![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/AndreeaEgli)
