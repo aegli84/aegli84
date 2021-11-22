@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img display="flex" align="center" justify-content="center" width="500" src="https://svg-banners.vercel.app/api?type=glitch&text1=Hi!I'mAndreea👋🏻&width=800&height=400](https://github.com/Akshay090/svg-banners)" />
-
-
+<img align="center" justify-content="center" width="500" src="https://user-images.githubusercontent.com/64198045/142875383-d3e2be6c-609a-4909-bdd3-201f9a3d14da.gif" />
 
 #### 🌱 I’m currently learning Wordpress and doing an internship where I'm building a business/marketing website with an integrated SaaS product for a FinTech startup in Berlin
 
