@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/aegli84">
-  <img align="left" width="490" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Andreea's GitHub stats" />
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Andreea's GitHub stats" />
 </a>
  
 <a href="https://github.com/aegli84">
-  <img align="right" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact&theme=react" alt="Top languages" />
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact&theme=react" alt="Top languages" />
 </a>
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
