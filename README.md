@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <img align="left" width="150" src="https://user-images.githubusercontent.com/64198045/142875383-d3e2be6c-609a-4909-bdd3-201f9a3d14da.gif" />
-<div align="right" >
+<div float="right" >
   <h4 align="left">💻 I’m a Full-Stack Web Developer with a focus on Frontend </h4>
   <h4 align="left">🌱 I started learning to code in September '20 </h4>
   <h4 align="left">💡  I share my learning progress and projects on Twitter to inspire others</h4>
@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/aegli84">
-  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Andreea's GitHub stats" />
+  <img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Andreea's GitHub stats" />
 </a>
  
 <a href="https://github.com/aegli84">
-  <img align="right" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact&theme=react" alt="Top languages" />
+  <img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact&theme=react" alt="Top languages" />
 </a>
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
