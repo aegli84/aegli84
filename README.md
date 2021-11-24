@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/aegli84">
-  <img align="left" width="520" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Andreea's GitHub stats" />
+  <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Andreea's GitHub stats" />
 </a>
  
 <a href="https://github.com/aegli84">
