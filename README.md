@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" display="flex" flex-wrap="wrap">
+<div align="center" display="flex" justify-content="space-between" flex-wrap="wrap">
   <img align="left" width="420" src="https://user-images.githubusercontent.com/64198045/142875383-d3e2be6c-609a-4909-bdd3-201f9a3d14da.gif" />
 <div align="right" >
   <h4 align="left">💻 I’m a Full-Stack Web Developer with a focus on Frontend </h4>
