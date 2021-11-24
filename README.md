@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 <div align="center" >
   <img align="left" width="420" src="https://user-images.githubusercontent.com/64198045/142875383-d3e2be6c-609a-4909-bdd3-201f9a3d14da.gif" />
 <div align="right" >
-  <h4 align="left">💻  I’m a Full-Stack Web Developer with a focus on Frontend </h4>
+  <h4 align="left">💻 I’m a Full-Stack Web Developer with a focus on Frontend </h4>
   <h4 align="left">🌱 I started learning to code in September '20 </h4>
-  <h4 align="left">💡   I share my learning progress and projects on Twitter to inspire others</h4>
-  <h4 align="left">📝  I write tech articles on my blog</h4>
+  <h4 align="left">💡  I share my learning progress and projects on Twitter to inspire others</h4>
+  <h4 align="left">📝 I write tech articles on my blog</h4>
   <h4 align="left">⚡ Completed an internship at a FinTech startup in Berlin</h4>
   <h4 align="left">💰 Looking for my first job as a Junior Web Developer</h4>
 </div>
 <br>
 
-##  View my portfolio website 👉 [💻](https://andreaegli.tech/)
-##  Read my tech blog 👉 [📝](https://aegli.hashnode.dev/)
+##  View my Portfolio Website 👉 [💻](https://andreaegli.tech/)
+##  Read my Tech Blog 👉 [📝](https://aegli.hashnode.dev/)
 
 ## Languages and Tools:
 <br/>
@@ -50,17 +50,22 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/aegli84">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Andreea's github stats" />
+  <img align="left" width="520" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Andreea's GitHub stats" />
 </a>
  
 <a href="https://github.com/aegli84">
-  <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact&theme=react" alt="Top languages" />
+  <img align="right" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact&theme=react" alt="Top languages" />
 </a>
-<br /> <br />  
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 
 ## 📫 How to reach me: 
-
-  [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/andreeaegli/)
-  [![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/AndreeaEgli)
+<div align="center">
+  <a href="https://www.linkedin.com/in/andreeaegli">
+    <img alt="linkedin" title="LinkedIn" width="65px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://twitter.com/AndreeaEgli">
+   <img alt="linkedin" title="Twitter" width="65px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />
+  </a>
 </div>
+
