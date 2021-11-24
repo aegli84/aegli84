@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" >
+<div align="center" display="flex" flex-wrap="wrap">
   <img align="left" width="420" src="https://user-images.githubusercontent.com/64198045/142875383-d3e2be6c-609a-4909-bdd3-201f9a3d14da.gif" />
 <div align="right" >
   <h4 align="left">💻 I’m a Full-Stack Web Developer with a focus on Frontend </h4>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-<br/>
+
 <a href="https://github.com/aegli84">
   <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Andreea's GitHub stats" />
 </a>
