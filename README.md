@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <h4 align="left">💰 Looking for my first job as a Junior Web Developer</h4>
 </div>
   
-##  View my Portfolio Website 👉 [💻](https://andreaegli.tech/)
-##  Read my Tech Blog 👉 [📝](https://aegli.hashnode.dev/)
+<!-- ##  View my Portfolio Website 👉 [💻](https://andreaegli.tech/)
+##  Read my Tech Blog 👉 [📝](https://aegli.hashnode.dev/) -->
 
 ## Languages and Tools:
 <br/>
